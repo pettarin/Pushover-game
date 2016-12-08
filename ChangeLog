@@ -1,0 +1,1711 @@
+Sun May 19 17:50:29 CEST 2013  Andreas R?ver <roever@users.sourceforge.net>
+  tagged 0.0.5
+
+Sun May 19 17:50:10 CEST 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * version 0.0.5
+
+Sun May 19 17:37:06 CEST 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * update the header in swedish translation file
+
+Wed May  1 08:48:03 CEST 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * add svedish translation
+
+Thu Mar 21 19:52:19 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * add aros support and makefile
+
+Sun Feb  3 14:20:38 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * add a recording for level 64 that works
+
+Sun Feb  3 13:47:24 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * when pressing ESC in profile add menu, get back to profile selection
+
+Tue Mar 12 20:01:44 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * updated french translation
+
+Fri Mar  8 21:26:34 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * add translation for esperanto
+
+Thu Feb 21 21:06:44 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * when starting select the last profile that had been added to the list and not the default
+
+Tue Feb  5 19:41:17 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * lower requirements on libpng und lua a bit
+
+Sat Jan 26 13:22:15 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  tagged 0.0.4
+
+Sat Jan 26 13:18:21 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * fix uninitialized variable
+
+Sat Jan 26 13:10:07 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * remove the text files without txt extension from the windows build
+
+Sat Jan 26 12:57:59 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * fix lua-5.2 configuration... hopefully
+
+Sat Jan 26 12:20:38 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * fix NEWS file, some double entries.. typos
+
+Sat Jan 26 12:14:28 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * add a hint for the translators what the %s in the about window title means
+
+Thu Jan 24 18:19:24 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * when continuing after timeout select next unsolved level
+
+Wed Jan 23 19:05:59 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * prepare version 0.0.4
+
+Wed Jan 23 19:05:22 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * include package version in the about title
+
+Wed Jan 23 18:53:35 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * more NEWS updates
+
+Wed Jan 23 18:34:38 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * fix the dungeon theme, some not yet painted but used tiles were nearly white and looked ugly
+
+Wed Jan 23 18:34:34 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * correct the number of dominos to load
+
+Tue Jan 22 06:51:56 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * get rid of the unused video surface in blend functions
+
+Mon Jan 21 21:50:54 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * no transition effect when replaying a level (restart, timeout, dying)
+
+Mon Jan 21 21:34:42 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * better sweep functions
+
+Mon Jan 21 21:22:08 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * fix the diffuse bloc update to now have smaller pixels in the bottom row
+
+Sun Jan 13 18:13:48 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * flipanimtion always repaints everything, it is used only at levelstart to repaint everything
+
+Sun Jan 13 18:08:54 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * get rid of the reference to the grapics, rather save only the size of the blocks to use
+
+Sun Jan 13 17:49:12 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * get rid of this rubbish with the pixel surface
+
+Tue Jan  8 20:00:41 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * user proper 44,1kHz audio output
+
+Tue Jan  8 19:35:18 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * remove unneeded function
+
+Sun Jan 20 20:01:01 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * update translations (remove translated Dokinik Levels)
+
+Sun Jan 20 17:51:07 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * keep levelselection and mission selection when opening the corresponsing windows
+
+Sun Jan 20 17:24:36 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * add a square icon displaying the solving state
+
+Mon Jan 14 17:46:53 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * some fixes to italiantranslation
+
+Sun Jan 13 19:40:57 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * make missions and levelnames translated
+
+Sat Jan 12 08:30:28 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * update czech translation
+
+Sun Jan  6 17:06:27 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  tagged 0.0.3
+  
+  This had been released about 2 years ago, but I missed to
+  place the tag, so let's do it now, better late than never
+
+Sun Jan  6 14:53:16 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * update italian translation
+
+Sat Jan  5 23:31:21 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * allow unicode input for profiles
+
+Sat Jan  5 23:29:51 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * translation is done before calling the textlength, so don't do it there... it might be an input string
+
+Sat Jan  5 23:29:11 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * add some savety checks before rendering a string (empty strings or strings with only spaces are not output) the string with only a space resulted in a crash
+
+Sat Jan  5 23:28:14 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * correct level name for updated level
+
+Sat Jan  5 18:03:08 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * proper documentation in tarball and proper linebreaks for windows release
+
+Sat Jan  5 17:50:04 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * update the NEWS file
+
+Sat Jan  5 17:47:45 CET 2013  Andreas R?ver <roever@users.sourceforge.net>
+  * rename the readme.txt to README
+
+Sat Jan  5 10:27:00 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * replace colour magic numbers with defines (except for black) and tweak colours (level selector colours should be distinguishable by colour blind)
+
+Sat Jan  5 08:50:28 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * update spanish translation
+
+Sat Jan  5 08:47:44 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * update german translation file
+
+Fri Jan  4 20:30:21 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * add a little help line for the colors in the level selector
+
+Fri Jan  4 19:24:27 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * redo the help window to be more friendly to internationalisation (long texts are better wrapped around)
+
+Fri Jan  4 19:23:48 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * when repaintring windows include the frame to allow to draw closer to the frame
+
+Fri Jan  4 17:59:28 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * use colors to show solving state for a level (this saves some space not available for internationalisation)
+
+Wed Jan  2 18:40:34 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * profile deletion in a separate window
+
+Wed Jan  2 18:02:03 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * return to main menu, after adding a new profile
+
+Wed Jan  2 17:32:59 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * levels solved out of time are still marked as somehow solved to have an easier solution available
+
+Wed Jan  2 17:32:37 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * titles in the listwindow may span multiple lines
+
+Tue Jan  1 20:40:39 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * new level credits improved
+
+Tue Jan  1 17:40:12 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * fix the PgUp and PgDown in the listwindow that was accidentially destroyed when including the attributes
+
+Tue Jan  1 17:36:00 CET 2013  Andreas Röver <roever@users.sourceforge.net>
+  * a rolling tumbler doesn'c count as an active level (for the delay after the trigger fell)
+
+Mon Dec 31 23:12:54 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * replace the numbers in the domino statemachine with enums to make it easier to add new blocks
+
+Mon Dec 31 22:21:20 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * group of 3 new dominos: stone 1 can only fall if all stoned of type 2 and 3 are fallen, type 2 only falls when type 3 is gone...
+
+Mon Dec 31 22:13:38 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * make small font a bit smaller, improve deomino help text add level designer to about box
+
+Mon Dec 31 17:11:25 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * some NEWS updates
+
+Mon Dec 31 16:23:02 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * remove spaces at line endings
+
+Sun Dec 30 12:13:58 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * shorten Levelgratulations a bit so that it fits in one line
+
+Sun Dec 30 12:07:34 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * fix typos in comments and output text, remove some tabs that sneaked in, remove TODO for colon in time, update translations
+
+Sun Dec 30 10:07:52 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * at the end dominos may not lean against a stair, only against an other domino
+  
+  This makes level 64 quite a bit harder. All the solutions I could find
+  work no more. That's why I changed the lavel a bit (removing ladder to
+  lower platform) to require the player to solve it again :)
+  
+  It also invalidates one of the solutions for level 38
+  
+
+Sun Dec 30 09:06:56 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * make compilable with lua 5.2
+
+Sat Dec 29 22:58:43 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * make png saver work with current pnglib
+
+Sat Dec 29 22:25:23 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * reset flip animation, when a complete update is done, this fixes update problems when shortcutting the animation
+
+Sat Dec 29 22:20:03 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * handle the quit event, which ends the application, wherever we are
+
+Sat Dec 29 22:10:16 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * implement profiles for the players
+  
+  This is done the following way:
+    - when loading the levels and levelsets the calculates hash for the
+      solved file is augmented with a user string that is unique for
+      each profile, so the hash now encodes the level that has been solve
+      and the user who has solved the level
+    - include the required menus for profiles
+      on startup you have to select the profile (you can keep the default, which
+      will contain the old progress)
+    - all replay and stuff will work with the default profile
+    - when starting from command line with a certain level, the default
+      profile will be used
+
+Sat Dec 29 22:09:42 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * add an window to enter strings
+
+Sat Dec 29 22:08:41 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  *  move the translation of text out of the text drawing function (needed for user input, which must not be translated)
+
+Sat Dec 29 21:38:25 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * add attributes to the list window: 2 attributes: highlight, and horizontal line below
+
+Sat Dec 29 21:35:57 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * remove unused window creator function
+
+Sat Dec 29 21:35:13 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * update translation templates and german translation texts
+
+Sat Dec 29 21:34:14 CET 2012  Andreas Röver <roever@users.sourceforge.net>
+  * add a getTime funtion to tools (for profile timestamp)
+
+Sat Dec 29 10:15:29 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * add the missing music file for the greek theme
+
+Thu Dec 27 12:12:05 CET 2012  Volker Grabsch <vog@notjusthosting.com>
+  * New levels: "Dominik 11" and "Dominik 12"
+
+Thu Dec 27 11:16:57 CET 2012  Volker Grabsch <vog@notjusthosting.com>
+  * Fix some level timings
+
+Wed Dec 26 23:23:41 CET 2012  Volker Grabsch <vog@notjusthosting.com>
+  * Fix names of Dominik levels and solutions
+
+Wed Dec 26 23:20:04 CET 2012  Volker Grabsch <vog@notjusthosting.com>
+  * More Dominik levels
+
+Wed Dec 26 23:18:59 CET 2012  Volker Grabsch <vog@notjusthosting.com>
+  * Fix backgrounds in Dominik levels
+
+Wed Dec 26 11:19:13 CET 2012  Volker Grabsch <vog@notjusthosting.com>
+  * Improve spacings
+
+Sat Dec 22 21:08:13 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * add dominiks 7 levels to tarball
+
+Wed Nov 14 17:26:53 CET 2012  Volker Grabsch <vog@notjusthosting.com>
+  * Dominik levels
+
+Sat Dec 22 20:47:08 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * instead of many single updates do one update with a list of rectangles
+
+Sat Dec 22 20:45:24 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * include the 3 new music pieces in the tarball
+
+Sat Dec 22 20:15:23 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some uninitialized variables
+
+Wed May  2 18:01:17 CEST 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * add music for toxcity theme
+
+Sun Feb  5 16:25:45 CET 2012  Andreas R?ver <roever@users.sourceforge.net>
+  * add music for mechanic theme
+
+Sun May 29 20:10:27 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * update translations, add italian translation
+
+Sun May 29 20:01:13 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add proper copyright header to all files
+
+Wed May 11 20:52:57 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * slight improvement to the diffuse blender, use a random pattern..
+
+Wed May 11 19:36:17 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add the new levels to the distribution
+
+Wed May 11 19:14:29 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add icon to distribution
+
+Tue May 10 21:17:54 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * proper numbers for carried comino generation
+
+Tue May 10 21:05:24 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * render all graphics of the dominos...
+
+Tue May 10 21:01:13 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * update NEWS file, version 0.0.3
+
+Tue May 10 20:53:44 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * fix crash in the level end check routine, that red beyon the array when a domino reached the end of the screen
+
+Tue May 10 20:39:14 CEST 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * fix uninitialized variable resulting in inconsisten behavior which spoiled some recordings
+
+Sat Apr 30 19:57:44 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fixed AUTHORS to contain only information that is won't suddenly become outdated
+
+Sat Apr 30 19:55:17 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * provide a portable way to initialize the random number generator from the current time
+
+Sat Apr 30 19:55:05 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * improved comment
+
+Sat Apr 30 19:28:54 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fix a very small memory leak
+
+Sat Apr 30 18:52:54 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * completely revised the library check in configure.ac
+
+Sat Apr 30 18:29:21 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * check for pkg-config explicitly to avoid some messy ./configure output
+
+Sat Apr 30 17:50:39 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * improved m4 quoting within configure.ac
+
+Sat Apr 30 17:21:07 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * move AC_C_BIGENDIAN into a more appropriate place in configure.ac
+
+Sat Apr 30 17:19:59 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * use AC_CONFIG_HEADERS instead of AM_CONFIG_HEADER in configure.ac
+
+Sat Apr 30 17:19:28 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fix libtoolize warnings regarding the m4/ sub directory
+
+Sat Apr 30 15:39:36 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * handle $LUA_CFLAGS and $LUA_LIBS in the configure script instead of the Makefile
+
+Sat Apr 30 14:38:04 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * use "pushover -f" for fullscreen and "pushover -x" for the must-crash tests
+
+Sat Apr 30 13:48:41 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * handle $LIBINTL in the configure script instead of the Makefile
+
+Sat Apr 30 13:39:04 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fixed typos in the readme
+
+Mon Apr 25 23:05:13 CEST 2011  Volker Grabsch <vog@notjusthosting.com>
+  * improved style of level av/merger
+
+Thu Feb 17 00:38:21 CET 2011  Volker Grabsch <vog@notjusthosting.com>
+  * new A&V level: Missing Quantum
+
+Wed Feb 16 02:50:15 CET 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fix recording filenames
+
+Tue Feb 15 22:46:36 CET 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fix a level filename
+
+Fri Jan 14 00:56:34 CET 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fix an Automake warning
+
+Fri Jan 14 00:50:43 CET 2011  Volker Grabsch <vog@notjusthosting.com>
+  * remove unneeded (and misleading) VERSION file
+
+Fri Jan 14 00:46:57 CET 2011  Volker Grabsch <vog@notjusthosting.com>
+  * fix some typos in the readme
+
+Sat Feb 12 20:18:54 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * fix the levelset name of one recording
+
+Sat Feb 12 20:15:46 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add 3 levels with the new stone type
+
+Sat Feb 12 02:11:17 CET 2011  Volker Grabsch <vog@notjusthosting.com>
+  * make the HOME and END keys work in the menu
+
+Sun Jan 16 12:00:45 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add a bit of text to NEWS file
+
+Sun Jan 16 11:59:42 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * initialize random mnumber generator
+
+Sun Jan 16 11:59:17 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add a fullscreen command line parameter
+
+Sun Jan 16 11:58:45 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add some comments to the raiser routine
+
+Sun Jan 16 11:56:33 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add "inverse" entangled domino
+
+Wed Jan 12 20:21:13 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * fix framed text, also add a proper shadowed text and use it here and there
+
+Wed Jan 12 19:24:41 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * another translation file update
+
+Wed Jan 12 19:23:26 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * double flip animation images to 64, add another block animation, a bit like pixel fading
+
+Wed Jan 12 19:22:40 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * restart ticker after flip animation to prevent "jumpy" ant due to too slow updates
+
+Wed Jan 12 19:21:51 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * one pixel alignment fixes for space and toxcity themes
+
+Tue Jan 11 20:53:33 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * fix a little very dark artefact at the top of the black cavern tile
+
+Mon Jan 10 17:58:09 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add a new stone type: entangled. All stones fall at the same time
+
+Mon Jan 10 15:53:02 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add generators for the files dominos.png and carried.png
+
+Sat Jan  8 17:16:48 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * update translations
+
+Sat Jan  8 16:53:27 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * fix a little graphic glitch, some nebula tiles were 1 pixel to narrow
+
+Sun Oct 31 18:06:04 CET 2010  Volker Grabsch <vog@notjusthosting.com>
+  * fix compiler warnings
+
+Sat Jan  8 13:30:24 CET 2011  Andreas R?ver <roever@users.sourceforge.net>
+  * add 2 missing recordings for A&V levels (well my levels, I was not doing it, shame on me)
+
+Mon Apr 12 20:37:49 CEST 2010  Andreas R?ver <roever@users.sourceforge.net>
+  * add spanish translation
+
+Thu Jan 21 19:24:13 CET 2010  Andreas R?ver <roever@users.sourceforge.net>
+  * tippfehler in German translation
+
+Thu Jan 21 17:49:40 CET 2010  Andreas R?ver <roever@users.sourceforge.net>
+  * new graphics for toxcity theme
+
+Mon Jan 18 20:56:32 CET 2010  Andreas R?ver <roever@users.sourceforge.net>
+  * new box graphics for menu boxes
+
+Sun Jan  3 16:41:43 CET 2010  Andreas R?ver <roever@users.sourceforge.net>
+  * add an icon set for the game
+
+Thu Dec 31 15:08:27 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * new graphics for the electro theme
+
+Thu Dec 31 14:54:30 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * update German translation
+
+Thu Dec 31 14:42:33 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * better help window with more description for each stone
+
+Wed Dec 30 21:22:10 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add a configuration option to the levle quit dialog
+  
+  also simplify the activation of configuration options by allowing windows to be reset, this make the config toggle
+  state unneeded as it was only there to restart the window
+
+Wed Dec 30 21:21:17 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add an option to the config window to toggle the music
+
+Sun Dec 27 20:06:17 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add french translation
+
+Sun Dec 27 20:05:13 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * update dungeon theme
+
+Sat Dec 19 17:38:24 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  tagged 0.0.2
+
+Tue Dec 15 17:30:56 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * use opendir for directory existen checking after all, stat didn't work on windows resulting in a failed directory create and an abort
+
+Tue Dec 15 17:30:25 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * use lzma instead of brut for exe compression, it is faster and compresses much better
+
+Mon Dec  7 20:24:19 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * fix type in readme
+
+Sun Dec  6 21:03:16 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * improved "make dist-win32"
+
+Sun Dec  6 13:31:57 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * prepare for release 0.0.2
+
+Sun Dec  6 00:07:58 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * revised level "One last crash"
+
+Sun Dec  6 10:27:45 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add music to distribution
+
+Sat Dec  5 17:37:33 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * 2nd try at soling the crash after level leaving problem, hope it works now
+
+Fri Dec  4 21:24:28 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add a new AV level and add missing levels from Volker to makefile.am
+
+Fri Dec  4 18:16:18 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * fix crashed after the ant leaves the level
+  
+  - add a regression test to check for this
+  - the patch is a bit bigger than really required because I moved the level finished
+    check from the levePlayer into the levelData class because this check is nearly pure level
+    data comparisons....
+
+Thu Dec  3 18:31:17 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * fix several falling dominos one higher than the other
+  
+  The old code use to check below and see "oh there is a domino belog me, so CRASH", but it
+  didn't check, whether the domino below was also falling. Because all dominos fall
+  at the same speed we can not have several dominos stacked
+  
+  this fixes the merger level, as the dominos now only crash, when needed
+
+Wed Dec  2 19:14:30 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * play music when replaying a recording
+
+Wed Dec  2 19:03:16 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add some more crash checks for risers so that they crash with dominos on the down way
+
+Wed Dec  2 18:25:56 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * make it possible for the ant to turn while inside the dominos, even when it already pushed
+
+Wed Dec  2 18:16:09 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * continue checking even after celebrating, and when we get a crash later on fail
+
+Wed Dec  2 00:22:37 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * fixed some more level recordings
+
+Tue Dec  1 21:16:30 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * shorten German text for one of the fails, so that is fits window
+
+Sun Nov 29 22:11:43 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * new levels (all about crashing)
+
+Sun Nov 29 19:33:09 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * fix several level recordings
+
+Sun Nov 29 11:33:02 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * recordings of alternative solutions to "Missing Stopper" and "Missing Stopper 2"
+
+Sun Nov 29 16:59:36 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * ascenders can now be retriggered
+
+Sun Nov 29 15:13:37 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * properly play music, when starting from a file, remove debug print, when starting music
+
+Sun Nov 29 12:28:31 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * don't interrupt music, when playing one level after another
+  
+  this will do the long music pieces more justice instead of hearing only the start again and again
+
+Sun Nov 29 12:26:50 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add some NEWS
+
+Sun Nov 29 11:43:18 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * update German translation
+
+Fri Nov 27 18:04:24 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some little differences to the original game that made a lot of the original recordings fail
+
+Fri Nov 27 17:57:56 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add 83 recordings from the original game for the original levels
+  
+  of the missing levels 
+  
+  6 fail because they already fail in the original (8, 33, 49, 79, 85, 92)
+  10 fail because of the remaining difference to the original (21, 66, 67, 75, 76, 78, 81, 90, 91, 93)
+
+Fri Nov 27 17:56:00 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * don't try to play music, when SDL sound subsystem is not initialized, it will result in crash
+
+Sun Nov 22 17:59:53 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * optimize the ant image a bit to make is easier for future artists
+
+Wed Nov 18 12:09:56 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add Harald to credits
+
+Wed Nov 18 11:53:00 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add explosion and crash animations from Harald
+
+Wed Nov 18 11:15:43 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * update the dungeon theme to use new graphics from Harald
+
+Sat Aug 29 10:13:39 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add space music
+
+Sat Aug 29 10:12:49 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add japanese music
+
+Sat Aug 29 10:12:23 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add dungeon music
+
+Sat Aug 29 10:11:47 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add castle music
+
+Sat Aug 29 10:11:12 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add aztec music
+
+Sat Aug 29 10:10:26 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add Roberto to the credits
+
+Sun May 31 12:49:46 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add some brackets to remove some warnings (and probably also errors)
+
+Tue May 26 19:03:20 CEST 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * fix a bug where a domino leaning against a step was not properly considered
+
+Fri Mar 27 20:49:50 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * use ogg files for music
+
+Fri Mar 27 20:49:23 CET 2009  Andreas R?ver <roever@users.sourceforge.net>
+  * add missing gettext header file
+
+Sun Jan  4 15:17:35 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * portability to BSD make
+
+Sun Jan  4 14:14:46 CET 2009  Volker Grabsch <vog@notjusthosting.com>
+  * improved coding style
+
+Tue Dec  2 21:51:03 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * corrected background tiles of the A&V levels
+
+Mon Dec 15 11:42:57 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add czech translation (first try at it, hints are still missing)
+
+Sun Dec  7 11:31:36 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement playing music
+
+Wed Dec  3 17:38:07 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * limit domino placing to left and right movement
+
+Tue Dec  2 21:18:17 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * splitting dust cloud could leave behind traces
+
+Tue Dec  2 17:25:14 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add start of a russian translation
+
+Tue Dec  2 04:00:53 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * add internationalisation (i18n) support
+
+Mon Dec  1 22:58:22 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * after playing a level, go back to level list instead of main menu
+
+Tue Dec  2 02:41:07 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * corrected list of A&V level files in Makefile.am
+
+Mon Dec  1 23:42:15 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved position of readme.txt entry in Makefile.am
+
+Mon Dec  1 22:31:04 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * switch all A&V levels to the space theme
+
+Sat Nov 29 13:13:14 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * yet 2 more dirty blocks for dust clouds
+
+Sat Nov 29 13:10:27 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * hopefully fix endian problem when loading PNG files
+
+Sat Nov 29 13:07:18 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add one more level to a&v level set
+
+Fri Nov 28 17:44:11 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * update space theme to new graphics
+
+Wed Nov 26 21:42:58 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove some unused and unimplemented tiles from aztec theme and also fix a little bug with the ladder
+
+Mon Nov 24 20:34:18 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * some updates to the aztec and mechanic tiles
+
+Sun Nov 23 10:38:51 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * update mechanic theme with new graphics
+
+Sun Nov 23 10:37:10 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * update to aztec graphics
+
+Sat Nov 22 16:06:32 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix 2 array overflows causing segmentation fauls at least on 64 bit systems when dominos got too close to the edge
+
+Fri Nov 21 21:03:03 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove debug print
+
+Fri Nov 21 08:58:48 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * update atzec theme, make it layered and use the new graphics by Harald Radke
+
+Thu Nov 20 13:31:13 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add modificator functions for multi layer converter
+
+Tue Nov 18 18:32:14 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix domino not flat test
+
+Sun Nov 16 14:11:24 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * check for lua-5.1 in addition to lua5.1 and lua
+
+Sun Nov 16 12:56:32 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix a buffer overflow with gethome under windows
+
+Sun Nov 16 12:45:57 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * create a changelog file before starting auto tools, as they require that file
+
+Sun Nov 16 12:11:12 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * split recordings/finished/ recordings/finished/original/ and recordings/finished/av/
+
+Sun Nov 16 12:10:34 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * corrected comments and error messages
+
+Sun Nov 16 12:00:04 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * allow directory names in ./pushover -c / -y / -f
+
+Sun Nov 16 11:17:01 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * use stat() instead of dirent to check existence
+
+Sun Nov 16 10:48:53 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * move directoryEntries() into tools.cpp
+
+Sun Nov 16 12:34:52 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * give an error message, when the trigger is not flat on the ground
+
+Sun Nov 16 12:14:27 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement sound toggling
+
+Sun Nov 16 10:49:19 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * be less verbose when making checks, only print errors and a summary
+
+Sun Nov 16 10:31:37 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  tagged 0.0.1a
+
+Sat Nov 15 22:14:40 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add missing AV level files to makefile
+
+Sat Nov 15 10:01:30 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  tagged 0.0.1
+
+Fri Nov 14 23:51:43 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * recordings for the A&V levelsets
+
+Fri Nov 14 19:38:27 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved level hints
+
+Fri Nov 14 16:51:05 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * changelog is not handeled within darcs but darcs creates it
+
+Fri Nov 14 07:18:33 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * new A&V levels: "Still too easy" and "Run 'n' Bridge"
+
+Fri Nov 14 06:45:14 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * new A&V level: 'Missing Stopper 2'
+
+Thu Nov 13 17:19:25 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix dirty blocks of two crashing raising ascenders and their dist cloud
+
+Thu Nov 13 00:44:49 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * new A&V level: 'Wrong direction'
+
+Wed Nov 12 22:56:06 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * small correction in the readme
+
+Wed Nov 12 22:52:34 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * forbid empty levelsets
+
+Wed Nov 12 22:37:17 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved level 'Missing Stopper'
+
+Wed Nov 12 18:08:50 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * if there is no unsolved level left, select the first level, instead of none
+
+Tue Nov 11 20:40:12 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * new A&V level: 'Missing Stopper'
+
+Tue Nov 11 18:43:21 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved level 'Hard distance'
+
+Tue Nov 11 17:31:17 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * instead of simply continuing with next unsolved level, return to level selection dialog
+
+Mon Nov 10 23:55:03 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * new A&V levels: 'Easy distance' and 'Hard distance'
+
+Tue Nov 11 16:56:18 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * typos in readme
+
+Mon Nov 10 18:50:08 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * speed increase for tests, you can not provide multiple files to test, the check target is adapted
+
+Sat Nov  8 18:19:41 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * the record wasn't updated when the next level was started
+
+Sat Nov  8 18:19:12 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add 2 more testcases, the mustCrash cases fails right now, but that is not too bad
+
+Sat Nov  8 17:22:22 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * due to the color reduction the offsets in the first column of ant image are no more reliable, so replace with lookup
+
+Sat Nov  8 14:40:44 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * randomly select the blend effects
+
+Sat Nov  8 14:29:27 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * set window title and better fullscreen toggling
+
+Fri Nov  7 18:11:37 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace images by color reduced versions to gain some space, also hq3x scale the theme files
+
+Fri Nov  7 18:11:01 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add the readme.txt to the distribution and add a dist-win32 target to create windows zip
+
+Fri Nov  7 16:45:10 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * bitdepth can be != 8 when using palette mode, but must be 8 for RGB png images
+
+Thu Nov  6 17:47:55 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * better formulation of taken over original content
+
+Thu Nov  6 17:45:58 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * the png loader can now also load palettized images with or without tRNS chunks
+
+Wed Nov  5 18:28:20 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace the many manual domino removals by a function call
+
+Wed Nov  5 17:56:36 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove two functions that existed twice with different names
+
+Wed Nov  5 17:54:27 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove unused function
+
+Wed Nov  5 17:51:24 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some windows problems: create home directory, don't write the solve files while reading it
+
+Tue Nov  4 20:05:02 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix more typos in readme
+
+Tue Nov  4 00:18:56 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved readme
+
+Sat Nov  1 16:27:40 CET 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved hint for level av/too_easy
+
+Mon Nov  3 20:35:32 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * proper getHome implementation creating the path required, also save recordings in home and add aprefix to the record file name
+
+Mon Nov  3 20:10:24 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * if an exception occurs while playing, try to save a record
+
+Mon Nov  3 20:06:38 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * save a record when pressing 'r' while playing
+
+Mon Nov  3 20:04:33 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * toggle about and quit entries in the main menu
+
+Mon Nov  3 20:02:50 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add accessor methods for the window sie and position
+
+Mon Nov  3 17:52:11 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a readme
+
+Fri Oct 31 15:10:49 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * make sure the fail window is wide enough to hold the caption
+
+Wed Oct 29 14:37:15 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * close Help window when pressing Return as well as Escape
+
+Wed Oct 29 14:31:48 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * reenable fullscreen toggle
+
+Wed Oct 29 13:24:25 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix windows compile
+  
+  for a reason that I don't know the windows compiler has problems accessing the single caracters in a
+  vector of strings, so I changed the code to get the c_string from the string and access those characters
+
+Wed Oct 29 12:37:27 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * privatize target surface and graphics object for levelDisplay_c
+
+Wed Oct 29 12:08:12 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * make the level array private to levelData_c, replacing all direct accessed with accessors and mutators
+
+Wed Oct 29 12:05:03 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add the checks back, add 3 test types (must finish, must crash, must fail), fis some problems, add make check target to makefile
+
+Tue Oct 28 17:54:40 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * issue a text when not able to load sounds
+
+Tue Oct 28 17:53:54 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * make some of the members of levelData private instead of protected, more will follow
+
+Tue Oct 28 17:53:29 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * increase Volkers contribution part in AUTHORS
+
+Mon Oct 27 18:28:59 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a tool file with the get home function, and move the solved file to home
+
+Mon Oct 27 18:26:44 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * bit of cleanup in font initialisation
+
+Mon Oct 27 18:25:24 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add about window
+
+Sun Oct 26 20:40:37 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * don't use uint type this is not known on MinGW
+
+Sun Oct 26 19:18:52 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * save the saved map each time a new level is added, also reformat file
+
+Sun Oct 26 19:18:33 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some valgrind uninitialized variables
+
+Sun Oct 26 19:18:09 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * throw an exception when accessing a non exiting tile
+
+Sun Oct 26 19:17:29 CET 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix problem in new background for level 101
+
+Fri Oct 24 22:57:37 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * background for level 101
+
+Fri Oct 24 17:50:29 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * first A&V levels
+
+Fri Oct 24 13:42:43 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * fix a compiled warning
+
+Thu Oct 23 21:57:48 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * SDL_image is not required
+
+Thu Oct 23 21:56:31 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove the rest of the SDL_xxx functions within the modules
+
+Thu Oct 23 20:55:04 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove some more instances of SDL_Blit by surface functions
+
+Thu Oct 23 20:32:34 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add some blitting functionality to the surface and start to use it
+
+Thu Oct 23 20:09:15 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace the dirty array and the surface for level background with a surface_c class
+
+Thu Oct 23 18:01:16 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * include the graphics_c class in the levelDisplay class
+
+Thu Oct 23 07:23:06 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved gratulation message
+
+Thu Oct 23 07:22:57 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * fix a compiler warning
+
+Thu Oct 23 06:49:58 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * fix theme of level 100
+
+Thu Oct 23 17:43:31 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * split the huge level class into three parts. Those also allow for loading without the surface, ... 
+
+Thu Oct 23 16:51:52 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement proper level failed messages
+  
+  - this works in many cases, some are still wrong
+  - also better implementation of the config fullscreen toggle
+
+Wed Oct 22 21:06:15 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement the fullscreen toggle config option
+
+Wed Oct 22 19:26:52 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement a menu system
+  
+  the normal playing mode is now working, level selection, abbortion, help
+  window, quit, ...
+  
+  - configuration menu is just a stub for now
+  - when a level is started from the command line things go wrong
+  - the check is not yet working again
+  - all the debug stuff has been removed
+  - ... maybe more
+
+Tue Oct 21 20:45:30 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add the font to the data dir
+
+Tue Oct 21 19:44:17 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved level hints
+
+Tue Oct 21 18:02:46 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * center text vertically in the box and use this for the hint
+
+Tue Oct 21 17:18:35 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove unused fua functions and fix warnings
+
+Tue Oct 21 15:08:18 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * allow only one line for the hint in a level file
+
+Tue Oct 21 14:50:43 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved level hints
+
+Tue Oct 21 00:04:53 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * some code cleanups to avoid gcc warnings
+
+Mon Oct 20 21:45:43 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement helpwindow
+
+Sun Oct 19 20:26:07 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace wav souneffects by ogg files
+
+Sun Oct 19 20:17:55 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add the frames images for windows
+
+Sun Oct 19 18:46:53 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove some left over debug code
+
+Sun Oct 19 18:41:24 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * solve conflict with checksum file
+
+Sun Oct 19 15:50:43 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * remove unused helper function rtrim()
+
+Sun Oct 19 15:47:34 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * calculate level checksums
+
+Sun Oct 19 15:46:46 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * bugfix: level rows were not correctly filled with spaces
+
+Sun Oct 19 15:13:08 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * import sha1 library from http://www.profv.de/sha1/
+
+Sun Oct 19 18:27:06 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * load the window frame images
+
+Sun Oct 19 18:23:25 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * reorganize dirty block handling and put that into its own class, implement some nice animations for full screen updates
+
+Sun Oct 19 03:14:30 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * remove helper function isDirectory()
+
+Sun Oct 19 12:57:32 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove all remmanents of loading code for the original datafiles (level, themes, sprites, ...)
+
+Sun Oct 19 11:42:10 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix conflicts between my text and Volkers pointer stuff
+
+Sun Oct 19 11:41:48 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix loos domino starting to fall down immediately
+
+Sun Oct 19 03:20:16 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * load additional levelsets from ~/.pushover/levels when possible
+
+Sun Oct 19 03:18:11 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * load data from PKGDATADIR if it exists, otherwise from the current working directory
+
+Sun Oct 19 02:49:52 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * use consequently std::string in graphicsN_c
+
+Sun Oct 19 02:37:56 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * avoid pointers
+
+Sun Oct 19 02:12:30 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * put the original level files into distribution, but install them as cat-gz files
+
+Sun Oct 19 02:11:55 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * some corrections in Makefile.am
+
+Sun Oct 19 11:33:08 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * first text implementation, many features still missing but it is a start
+
+Sat Oct 18 23:16:32 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * include levelset name in recordings
+
+Sat Oct 18 23:11:52 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * add new level item '$' for a normal domino without a platform
+
+Sat Oct 18 21:37:02 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * load levelsets also from cat-gz files
+
+Sat Oct 18 21:07:09 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * created helper function isDirectory()
+
+Sat Oct 18 20:57:34 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * created helper function readCompressedFile()
+
+Sat Oct 18 20:39:31 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved comments
+
+Sat Oct 18 20:34:48 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * make internal functions static
+
+Sat Oct 18 18:42:10 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * support for levelset lists (levelsetList_c)
+
+Sat Oct 18 18:18:46 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * new section "Priority" for levelset index
+
+Sat Oct 18 18:15:52 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved coding style: put temporary variables into extra blocks
+
+Sat Oct 18 18:10:32 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * added a missing "const"
+
+Sat Oct 18 14:50:54 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved levelset loading code
+
+Fri Oct 17 10:06:45 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * use pkg-config to check for lua / lua5.1
+
+Thu Oct 16 21:35:23 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * bugfix: use #include <...> instead of #include "..." for including LUA headers
+
+Thu Oct 16 18:53:21 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add crashes for rising dominos add one test case
+
+Thu Oct 16 18:50:45 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace some numbers by the proper enum values for foreground
+  
+  this fixes a bug introduced when removing the unused foreground tiles, some
+  numbers weren't right any more
+
+Thu Oct 16 16:48:39 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add missing luaclass files
+
+Thu Oct 16 00:29:06 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * check for liblua5.1 as well as for liblua
+
+Wed Oct 15 21:46:54 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix falling off screen and use ghost when doing that
+
+Wed Oct 15 18:00:43 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove 2 unused foreground elements
+
+Wed Oct 15 18:00:22 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add the theme images to dist target
+
+Tue Oct 14 20:23:31 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * make falling and ant landing sound start earlier
+
+Tue Oct 14 19:20:05 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * port themes to own file format
+  
+  themes now consist of a png file containing the tiles and a lua script that defines
+  the positions of the tiles within the png file.
+  
+  all theme pngs do right now contain scaled versions of the original graphics
+  better replacements will follow as well as better arranged tiles, right now the
+  tiles are one below the next
+  
+
+Mon Oct 13 06:11:58 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved names of recordings
+
+Mon Oct 13 06:08:19 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * implemented levelsets
+
+Mon Oct 13 06:07:46 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * bugfix: add a missing #include
+
+Mon Oct 13 05:25:50 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * corrected level name in levelset index
+
+Sun Oct 12 14:15:28 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * fixed typo
+
+Sun Oct 12 14:02:19 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * renamed levelsections_c -> textsections_c, improved interface to level_c::load() and ::save()
+
+Sun Oct 12 03:17:58 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * fixed typo in comment
+
+Sun Oct 12 15:50:05 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add sound effects
+
+Sun Oct 12 11:19:01 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix domino when carried on ladder, shift dominos up a bit where required, so they don't overlap with next
+
+Sat Oct 11 22:47:35 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * reformat carried domino lookup table
+
+Sat Oct 11 22:47:14 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace old carried dominos with new images
+
+Sat Oct 11 13:28:15 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * bugfix in initialization, improved log messages
+
+Sat Oct 11 14:57:03 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * cleanup in png loader, add some error messages
+
+Sat Oct 11 14:52:59 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace the carried comino images by a png. This removes the old code completely for sprite loading
+
+Sat Oct 11 11:56:38 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix in level 91 snes recording
+
+Sat Oct 11 11:39:20 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add another recording for level 91 demonstrating that it can be solved without catching dominos
+
+Sat Oct 11 11:36:01 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add the new 91 snes level to the index file
+
+Fri Oct 10 16:54:11 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * add SNES variant of level 91
+
+Fri Oct 10 16:37:28 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * corrected solution recording for level 91
+
+Sat Oct 11 11:33:19 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * print some log and timing information in main when loading
+
+Sat Oct 11 11:32:52 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * use the right format for the step checks for falln dominos
+
+Sat Oct 11 11:31:52 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * speed up loading by _not_ converting surfaces to screen format
+
+Thu Oct  9 18:04:58 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * make level 49 require to fall down into the gap
+
+Thu Oct  9 17:59:56 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * improve the level finished check, be more restrictive, tumbler need to be still, ...
+
+Thu Oct  9 03:24:14 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * alternative solutions recordings for level 98
+
+Thu Oct  9 03:16:43 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * bugfix: handle end of record correctly
+
+Thu Oct  9 17:35:46 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remov a debug printf
+
+Thu Oct  9 17:14:08 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add header guards to all headers where is was missing
+
+Wed Oct  8 21:46:22 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * use a dedicated PNG loader that allows loading PNG images piece by piece
+  
+  this allows us to load the huge domino and ant animations images step by step
+  directly into the target surfaces without loading the complete image and then
+  copying that into the target, this saves memory and time
+
+Wed Oct  8 17:11:38 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace original graphics by hq3x scaled versions
+
+Tue Oct  7 22:05:33 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace ant animations with own graphics file (right now containing scaled originals
+
+Sun Oct  5 16:35:15 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * use C++ streams in recorder_c::load() and ::save(), fix a potential buffer overflow
+
+Sun Oct  5 16:35:00 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved 'unexpected stream error' exception message
+
+Sun Oct  5 16:14:24 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved interface of recorder_c, fixed some initialization issues
+
+Sun Oct  5 10:48:22 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add scaled up versions of the missing domino graphics
+
+Sun Oct  5 09:09:04 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * split out the recorder into a separate file
+
+Sun Oct  5 01:53:58 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * make level 101 solvable and provide a solution recording
+
+Sun Oct  5 01:48:24 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * load levels via file name using level_c::load()
+
+Sun Oct  5 01:22:27 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * bugfix: use 'V' in level_c::save() only when it's really necessary
+
+Sun Oct  5 01:20:08 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * completely revised level_c::load() using levelSections_c
+
+Sun Oct  5 01:19:20 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * implemented helper class levelSections_c for loading levels and levelsets
+
+Fri Oct  3 23:26:53 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add another dirty block for falling dominos
+
+Fri Oct  3 23:26:05 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * now all dominos are in the file, except for carried dominos and explosion and crash
+
+Fri Oct  3 22:13:17 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * add alternative solution recording for level 94
+
+Fri Oct  3 21:51:29 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * completed the level solution recordings
+
+Fri Oct  3 21:41:37 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * fixed solution recordings of some levels
+
+Thu Oct  2 22:03:43 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * switch all text files to UTF-8
+
+Fri Oct  3 18:59:29 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix crash when a domino crash falls into a splitter
+
+Fri Oct  3 18:33:02 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * be less strickt about splitter when checking for solved levels
+
+Fri Oct  3 18:32:31 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * update the domino image, missing dominos are taken from the original graphics
+
+Fri Oct  3 17:14:18 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix red rubbish pile not finishing animation
+
+Fri Oct  3 16:50:14 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove possibility to push non existant dominos when already pushing then then turning around
+
+Fri Oct  3 16:27:56 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some dirty block check that resulted in edges of dominos clipped of when ant walked below
+
+Fri Oct  3 16:19:02 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix a backet mess resulting in ant beeing able to enter door even though if was blocked
+
+Fri Oct  3 15:56:32 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * 2 more dirty blocks for ant, required when jumping down left or right
+
+Fri Oct  3 15:49:46 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix memory leak: font wasn't freed
+
+Fri Oct  3 15:47:14 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * dominos now use a png file in the new graphics engine
+  
+  A first tentative version of the dominos is also added
+  those ar neither complete nor what I want in the end, too raytacy not enough comic like, but it's a start
+
+Fri Oct  3 11:01:13 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * we must call SDL_Quit when the program is finished or we have a problem returning from fullscreen
+
+Fri Oct  3 09:32:02 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * proper logic for the domino crashed. The piles now have the right color and have 2 possible sizes
+
+Fri Oct  3 04:16:30 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved handling of hints
+
+Thu Oct  2 21:45:56 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a comment at some debugging functionality
+
+Thu Oct  2 21:45:27 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add another block to the ant drawing dirty area, this is the last known issue for me
+
+Thu Oct  2 21:33:41 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a comment to what the special display cases are for and add a tiny tweak for domino position
+
+Thu Oct  2 21:22:58 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix another ascender display problem, I think that's the last one
+
+Thu Oct  2 17:06:08 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * error messages in level_c::load() and level_c::save(), using a custom exception class
+
+Thu Oct  2 16:28:15 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * bugfix in handling the level version number
+
+Thu Oct  2 16:18:29 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * improved indentation
+
+Thu Oct  2 16:03:41 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * import the original levelset
+
+Thu Oct  2 15:34:11 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * simplified build system
+
+Thu Oct  2 15:05:24 CEST 2008  Volker Grabsch <vog@notjusthosting.com>
+  * include license in the repository
+
+Wed Oct  1 18:45:29 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * support for multiple (up to 8) background layers
+
+Wed Oct  1 18:43:47 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * improved level format
+  
+    enforce "#!" line
+    add and enforce version number
+    renamed some fields
+  
+
+Wed Oct  1 18:42:05 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * extract the english hint from the puzzles
+
+Tue Sep 30 21:22:44 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add new graphics engine
+  
+  this engine is going to be the final engine in the future. if supports
+  the final intended resolution of 800x600 pixels but right now it uses
+  the old graphics scaled up by 2.5x3, but future steps will replace those
+  old graphics with out own and our own format
+
+Tue Sep 30 21:22:22 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove 2 unused functions from graphics
+
+Tue Sep 30 21:21:59 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add autors
+
+Mon Sep 29 18:17:38 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a new text based level format
+
+Mon Sep 29 18:12:28 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace some char* strings with proper std::string
+
+Mon Sep 29 18:08:30 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * rename defines and variable names to they correspond with the texts in the original game
+
+Mon Sep 29 18:05:06 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove the theme name array
+
+Mon Sep 29 18:03:48 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add some debugging code for domino painting (it is disabled for now)
+
+Sun Sep 28 21:41:26 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * a little fix for riser displaying
+
+Sun Sep 28 17:23:40 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add some coments for the foreground elements
+
+Sun Sep 21 11:16:46 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * some improvements for level finished test
+
+Sun Sep 21 11:15:58 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * little fix for riser, but the riser is still not working properly
+
+Sun Sep 21 10:59:26 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * 4 more recordings
+
+Sat Sep 20 19:03:37 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add recordings for the first few levels. They can be used for regression checks
+
+Sat Sep 20 10:32:37 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add some dirty marks to ant, so that it properly updates the display when putting down domino
+
+Sat Sep 20 10:19:10 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * some slight improvements for level done check
+
+Thu Sep 18 18:14:36 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix an unitialized variable
+
+Thu Sep 18 18:09:51 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * make it possible to check recordings
+  
+  with 
+  
+  pushover -c recordFile
+  
+  it is now possible to check recordings. The level must have ended
+  right on that spot. This is now happening without any use of graphics
+  and quite quick
+  
+  this made it necessary to initialize the ant arrays with proper sizes
+  otherwise the animations would not be properly simulated
+  
+  
+
+Wed Sep 17 21:50:33 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * replace pixel positions by proper graphics functions so that they are themable
+
+Wed Sep 17 17:39:13 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a text, when the level has been successfully solved
+
+Wed Sep 17 17:38:37 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement some more debugging things
+
+Wed Sep 17 17:37:37 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some riser issues
+
+Wed Sep 17 17:37:05 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix splitter splitting stone position
+
+Mon Sep 15 21:08:46 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * some improvements for riser drawing
+
+Mon Sep 15 20:34:46 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * better pause implementation and separate dirty block and print debug modes
+
+Mon Sep 15 20:11:52 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * handle events even in playback mode, but ignore action keys, the special keys work though, fns chars for fast normal slow mode
+
+Mon Sep 15 17:10:26 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * clock updates only when necessary, a litte optimisation for backgrond updates
+
+Mon Sep 15 17:05:38 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add some comments, replace number with defines, replace some unknown ant states with names
+
+Sun Sep 14 21:48:30 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * properly implement domino display routine, also fix a dirty marking, there are some problems left
+
+Sat Sep 13 21:01:00 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * initialize the background before starting the main loop
+
+Sat Sep 13 20:52:29 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add time handling and display
+
+Sat Sep 13 18:06:56 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a first font and text output routines
+
+Sat Sep 13 18:06:00 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * proper last row output (the last row is only halve visible
+
+Fri Sep 12 19:28:42 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some dirty blocks fir riser
+
+Fri Sep 12 19:06:33 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix riser display, when it continues upwards
+
+Fri Sep 12 17:22:33 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * better dirty block handling, CPU usage is down to a few percent (below 10)
+
+Thu Sep 11 21:40:03 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement dirty block updating and pause option
+
+Thu Sep 11 21:02:53 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix a missing dirty block
+
+Thu Sep 11 20:46:02 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement level complete check, play animation level can be left, record is saved when level left
+
+Thu Sep 11 18:22:02 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * indentation
+
+Thu Sep 11 18:21:14 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix push in test, the wrong neighbor was checked, also change comparison to contain the proper meaning
+
+Thu Sep 11 18:20:51 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a debug print routine that prints out the state of the level
+
+Thu Sep 11 17:13:38 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove x1, y2 from the DTA functions, they are not needed, x2 is always == x same for y
+
+Thu Sep 11 16:59:58 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix flip over of bridger to the right
+
+Thu Sep 11 16:59:29 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add a key recorder and playback functionality
+
+Thu Sep 11 16:45:26 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * commenting initiative for level.cpp
+
+Wed Sep 10 21:30:45 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix bouncing off of delay demonios, this must only work, when the way back is free
+
+Wed Sep 10 21:02:57 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * the dirty block marks are now better visible and can be switched on and off with 'd'
+
+Wed Sep 10 20:56:24 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement rolling "up" of riser dominos
+
+Tue Sep  9 21:44:48 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix bug with bouncing away from a delay stone
+
+Tue Sep  9 21:31:14 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement bridge builders building activities
+
+Tue Sep  9 20:35:50 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix domino rolling over the edge of a halfe block
+
+Tue Sep  9 20:32:38 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement tumbler rolling over
+
+Tue Sep  9 20:32:18 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * shift the dirty markis into the middle of the blocks
+
+Tue Sep  9 18:34:45 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix ant loosing domino animations (when stepping over a gap)
+
+Tue Sep  9 17:06:04 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * splitters are now working, some other fixes, like some added crashes....
+
+Tue Sep  9 17:01:29 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix ant push domino animation for the special blocks (like delay)
+
+Mon Sep  8 21:46:06 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add some number comments to foreground enumeration, proper new position for dominoes falling left down the edge
+
+Mon Sep  8 21:38:46 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix jumping up stairs
+
+Mon Sep  8 21:31:33 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * shift ant dirty blocks around
+
+Mon Sep  8 21:30:53 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement dominos toppling over the edge, and crashing dominos
+
+Mon Sep  8 18:29:20 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * don't use the dirty marks for repaint at the moment, always repaint everything, also add little marks for dirty blocks
+
+Mon Sep  8 18:27:14 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * its now possible to toggle speed between 1 and 18 frames per second by pressing s
+
+Mon Sep  8 18:26:44 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix some valginrd warnings about uninitialized variables
+
+Sun Sep  7 11:12:43 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * a lot of functionality for domino animation, simple things do work, first level is doable
+
+Fri Sep  5 18:25:35 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix ant trying to climb non existant ladder
+
+Fri Sep  5 17:58:17 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * better time handling in main, re catch up lost time now
+
+Thu Sep  4 21:25:00 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix ant falling
+
+Thu Sep  4 20:05:43 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * now the ant does everything properly
+
+Thu Sep  4 17:46:29 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * we can now properly display the ant when it carries a domino, pull out and push in is still missing though
+
+Wed Sep  3 17:14:27 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement pushable domino and CanPlaceDomino and finish noactivity checks
+  
+  All ant movements are now working as expected, the ant carried a domino
+  around and goes up and down ladders.... but display is not yet right
+
+Tue Sep  2 21:47:35 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement first part of the non active activities, release domino and exit ladder is still missing
+
+Tue Sep  2 21:12:50 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement the main ant movement decision making function... phew that one is big
+
+Thu Aug 28 21:23:56 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement proper timing for frames
+
+Thu Aug 28 21:22:51 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement all Ant state functions, except for the big decision maker.....
+
+Sun Aug 24 18:08:38 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * make valgrind happy (memory leak and decompressor accesses 4 additional bytes)
+
+Sun Aug 24 17:56:22 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * Ant can now fall down and will die when falling too high
+
+Sun Aug 24 16:43:40 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * implement in front of exploder animation
+
+Sun Aug 24 13:21:01 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * use the space palette for ant and dominos it looks better
+
+Sun Aug 24 12:56:47 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * ant can now jump, also replace some magic numbers with proper graphics specific methods
+
+Sat Aug 23 22:33:35 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * add missing ant-files from the last commit, also ant now walks left and right
+
+Sat Aug 23 20:33:53 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * start of ant state machine
+  
+  - start of main playing loop
+  - first 2 states of ant state machine
+  - doors open and close
+  - ant enters level
+  - positions of ant and dominos is still wrong...
+  
+
+Sat Aug 23 13:48:25 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * load the entry and exit door positions
+
+Sat Aug 23 13:48:10 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * fix ant animation loading, still one special case to go
+
+Thu Aug 21 22:15:27 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * partially load the ant animations (some copying is still missing)
+
+Thu Aug 21 17:26:01 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * more cleanup in decompress (static functions, merge the 2 CRC functions)
+
+Wed Aug 20 17:59:09 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * cleanup for decompress module, making it reentrant and only initialize CRC table once
+
+Wed Aug 20 17:12:04 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * color gradient must not access pixel below surface edge
+
+Wed Aug 20 17:07:42 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * load data from current directory, program parameter is a string with the level name
+
+Wed Aug 20 17:07:07 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove checks for 2 not used libraries from config chript
+
+Tue Aug 19 20:55:19 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * wait for keypress instead of simple 10 seconds
+
+Tue Aug 19 20:54:55 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * redraw ladders in front of dominos
+
+Sun Aug 17 20:47:51 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * remove some warnings, provide destructors that free the allocated memory
+
+Sun Aug 17 20:35:49 CEST 2008  Andreas R?ver <roever@users.sourceforge.net>
+  * initial import
+  
+  The current version can read ressources for background, domioes and sime of the information from levels
+  it reads a command line parameter: a number and reads the corresponding level from the original files
+  and displays it, then the program exits

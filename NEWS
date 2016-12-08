@@ -1,0 +1,52 @@
+Version 0.0.5 May 2013
+
+- new Swedish and Esperanto translation and updated French translation many
+  thanks to the translators
+- AROS support inside the code
+- minor usability improvements in the menu sytem
+- slightly lower requirements on libpng and lua versions
+
+Version 0.0.4 January 2013
+
+- profiles so that more than one player can play the game on the same computer
+  using the same account
+- 2 solve states. When a level is solved not meeting the time constraint it
+  still gets marked as solved, but with a different marker
+- Italian translation (we have up to date translations for Czech, German,
+  Spanish and Italian and incomplete translations for French and Russian)
+- 3 new music pieces (only one theme music and a title music is now missing)
+- support lua 5.2
+- fixes to typos
+- expect for a proper level solution that dominos don't lean against a step
+  this makes level 64 harder, enforced level 64 to play again by removing a
+  useless ladder
+- pushover can now quit using the window close button on the window header
+- speed-up the fade-in animation when a level is started
+- new type of domino: counter blocker, but with no levels using it, yet
+- improved help window, better suited for translation and improved texts for
+  the dominos
+- a few new levels in A&V
+- mission and level names are now translated
+- fix to the background images of 3 dungeon levels
+
+Version 0.0.3 May 2011
+
+- New graphics for dungeon, toxcity and electronic theme, new graphics for menu boxes
+- French and Spanish translation
+- 2 New stones and some new levels for them
+- cleanup in configuration script
+- fix crash in levle end check, when a domino reach the edge of the screen
+- fullscreen with command line parameter -f
+- cosmetic fixes to some themes, text output, better help window
+- icons for the game
+
+Version 0.0.2 Dec 2009
+
+- internationalisation with translation into German, and starting translations for Russian and Czech
+- replacement graphics for half of the themes, new composed music for half of the themes
+- some little fixes to level end recognition, and a proper message when things go wrong
+- make game mechanics match even closer to the original game
+- import the solutions recordings provided with the original levels, nearly all of them can be done
+- sound can now be toggled
+- hopefully fix an endian problem when loading graphic files (no testers)
+- some new levels in the A&V levelset
